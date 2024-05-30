@@ -1,0 +1,32 @@
+.shippingpage_wrapper {
+    float: left;
+    width: 100%;
+    margin: 2em 0;
+}
+.shippingpage_wrapper h1 {
+    font-size: 35px;
+    margin: 15px 0;
+    color: #024c60;
+}
+.shippingpage_wrapper p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.shippingpage_wrapper h2,.shippingpage_wrapper h3 {
+    font-size: 25px;
+    margin: 15px 0;
+    color: #024c60;
+}
+.shippingpage_wrapper ul li{
+    font-size: 18px;
+    line-height: 30px;
+    display: block;
+    position: relative;
+}
+.shippingpage_wrapper ul li:before {
+    content: "\f192";
+    display: inline-block;
+    font: normal normal normal 18px/1 FontAwesome;
+    padding-right: 10px;
+    color: #024059;
+}
