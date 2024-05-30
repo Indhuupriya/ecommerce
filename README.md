@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -70,6 +71,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # SimpleCart
 >>>>>>> 7d2012b482e6d65da5ac3ca3c41bf5029bc9ee7a
+=======
+# ecommerce
+>>>>>>> a481d35ce079cb51dce2fb9f705269ac2af63e87
 =======
 # ecommerce
 >>>>>>> a481d35ce079cb51dce2fb9f705269ac2af63e87
