@@ -56,3 +56,71 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ### Screenshot 1: Home Page
 ![Main Dashboard](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/home.png)
 This is the Home Page where users can view an overview of their activities.
+
+### Screenshot 2: Register Page
+![Register Page](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/register.png)
+
+### Screenshot 3: Login Page
+![Login Page](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/login.png)
+
+### Screenshot 4: Forget Password
+![Forget Password](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/forget.png)
+
+### Screenshot 5: User Profile
+![User Profile](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/user_profile.png)
+
+### Screenshot 6:User Orders Details
+![Order Details](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/user_orders.png)
+
+### Screenshot 7:Change Password
+![Change Password](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/newpass.png)
+
+### Screenshot 8:User Address
+![User Address](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/user_address.png)
+
+### Screenshot 9:User Address Change
+![User Address Change](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/change_address.png)
+
+### Screenshot 10:Privacy Info
+![Privacy Info](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/privacy.png)
+
+### Screenshot 11:Addto Cart
+![Addto Cart](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/addtocart.png)
+
+### Screenshot 12:Checkout Page
+![Checkout Page](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/checkout.png)
+
+### Screenshot 13:Payment Page
+![Payment Page](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/payments.png)
+
+### Screenshot 14:Stripe Payment
+![Stripe Payment](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/stripe.png)
+
+### Screenshot 15:Paypal Payment
+![Payment Payment](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/paypal.png)
+
+### Screenshot 16:Wishlist Page
+![Wishlist Page](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/wishlist.png)
+
+### Screenshot 17:Admin Dashboard
+![Admin Dashboard](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/admin_dashboard.png)
+
+### Screenshot 18:Admin Profile
+![Admin Profile](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/admin_profile.png)
+
+### Screenshot 19:Admin Settings
+![Admin Settings](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/admin_settings.png)
+
+### Screenshot 20:Admin Orders Details
+![Admin Order Details](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/orders_view.png)
+
+### Screenshot 21:Admin Product Details
+![Admin Product Details](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/product_view.png)
+
+### Screenshot 6:Admin Product Add
+![Product Add](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/product_add.png)
+
+### Screenshot 6:Admin Product Update
+![Product Update](https://github.com/Indhuupriya/ecommerce/blob/main/screenshots/product_update.png)
+
+
