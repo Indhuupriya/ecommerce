@@ -9,7 +9,8 @@
 
 # SimpleCart
 
-Welcome to SimpleCart! This is a simple Ecommerce application built with pusher and laravel.
+Welcome to SimpleCart! Developed a complete simple e-commerce platform using Laravel, handling both front-end development with Blade templating, HTML, CSS, and JavaScript, and back-end integration of secure payment gateways (PayPal, Stripe).
+
 
 ## Requirements
 
@@ -25,11 +26,8 @@ To get started with SimpleCart, follow these simple steps:
 -   `cp .env.example .env `
 -   Create database and modify .env with your DB name and Pusher credentials and Boardcasts.
 -   `php artisan migrate`
--   `php artisan key:generate`
--   `npm install && npm run dev`
 -   `php artisan storage:link`
 -   `php artisan serve`
--    Register the user to login and start with the chat
 
 ## Contributing
 
@@ -46,8 +44,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
 
 
 
