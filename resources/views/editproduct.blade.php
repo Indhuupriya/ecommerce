@@ -13,6 +13,16 @@
                 @enderror
             </div>
             <div class="form-group">
+<<<<<<< HEAD
+                <label for="name">Slug:</label>
+                <input type="text" name="name" id="name" class="form-control" value="{{ $product->slug }}" readonly> 
+                @error('slug')
+                    <span class="text-danger">{{ $message }}</span>
+                @enderror
+            </div>
+            <div class="form-group">
+=======
+>>>>>>> abf70130a6b3add7269e80a3c226d04f2f7bf96d
                 <label for="price">Price:</label>
                 <input type="text" name="price" id="price" class="form-control" value="{{ $product->price }}">
                 @error('price')
